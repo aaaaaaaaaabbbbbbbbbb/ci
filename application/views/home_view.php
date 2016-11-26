@@ -1,43 +1,7 @@
 <?php ?>
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <title>Bootstrap 101 Template</title>
-    <link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
-    <script src="bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
-    <script src="bower_components/jquery/dist/jquery.min.js"></script>
-    <![endif]-->
-    <link rel="stylesheet" href="bower_components/font-awesome/css/font-awesome.min.css">
-    <link rel="stylesheet" href="bower_components/animate.css/animate.min.css">
-</head>
-<body>
-<div class="container-fluid">
-    <div class="row">
-        <nav class="navbar navbar-inverse navbar-static-top">
-            <div class="container-fluid">
-                <div class="navbar-header">
-                    <button type="button" class="collapsed navbar-toggle" data-toggle="collapse"
-                            data-target="#bs-example-navbar-collapse-9" aria-expanded="false"><span class="sr-only">Toggle navigation</span>
-                        <span class="icon-bar"></span> <span class="icon-bar"></span> <span class="icon-bar"></span>
-                    </button>
-                    <a href="#" class="navbar-brand">Brand</a></div>
-                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-9">
-                    <ul class="nav navbar-nav">
-                        <li class="active"><a href="#">Home</a></li>
-                        <li><a href="#">Link</a></li>
-                        <li><a href="#">Link</a></li>
-                    </ul>
-                </div>
-            </div>
-        </nav>
-    </div>
-</div>
 <div class="container">
     <h1 class="animated bounce">CHAING MAI RAJACHABhAT UNIVERSITY
-<small>มหาลัยวิทยาลัยราชภัฏเชียงใหม่</small>
+        <small>มหาลัยวิทยาลัยราชภัฏเชียงใหม่</small>
     </h1>
 </div>
 <hr class="divider">
@@ -59,7 +23,7 @@
                     consequuntur, culpa dignissimos distinctio doloremque, fuga hic laborum maiores maxime modi nesciunt
                     nulla quibusdam quod recusandae sint ut veritatis voluptas?</p>
                 <a href="#" class="btn btn-warning"><i class="fa fa-bicycle fa fa-cog fa-spin " aria-hidden="true"></i>
-อ่านต่อ</a>
+                    อ่านต่อ</a>
             </div>
         </div>
 
@@ -101,6 +65,7 @@
         </div>
     </div>
     <hr class="divider">
+</div>
     <div class="container">
         <center>
             <nav aria-label="Page navigation">
@@ -116,5 +81,5 @@
             </nav>
         </center>
     </div>
-</body>
-</html>
+    </body>
+    </html>
